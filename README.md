@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **nikolasterzidis@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
-
 - ⚡ Fun fact **I find Polis a very funny name and i used it when i program npcs as their name**
 
 <h3 align="left">Connect with me:</h3>
