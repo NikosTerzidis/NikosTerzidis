@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **PIKPA Project**
 
-- 🌱 I’m currently learning **css , javascript**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
 - 💬 Ask me about **love , sex , flirt and html**
 
 - 📫 How to reach me **nikolasterzidis@gmail.com**
